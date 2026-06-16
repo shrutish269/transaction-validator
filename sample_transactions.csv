@@ -1,0 +1,7 @@
+order_id,product_name,amount,payment_mode,phone,country,date
+101,Laptop,50000,UPI,9876543210,India,2025-04-15
+102,Mouse,1200,CARD,12345,India,2025-04-15
+103,Keyboard,1500,CASH,87654321,Singapore,2025-04-15
+104,Monitor,10000,ABC,9999999999,India,2025-15-04
+105,Tablet,20000,UPI,87654321,Singapore,2025-04-16
+106,Printer,15000,NETBANKING,9876543210,India,2025-04-18
